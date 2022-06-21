@@ -1,3 +1,8 @@
+# SNK Neo Geo for Sockit (Mister)
+
+Ported from https://github.com/MiSTer-devel/NeoGeo_MiSTer  according from Somhi sockit template.
+
+Follows original readme file.
 
 # [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system)) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki) 
 
